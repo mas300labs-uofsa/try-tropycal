@@ -20,5 +20,5 @@ And the environment will also have:
 - tropycal
 
 Click on the Binder button to open the Notebook:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mas300labs-uofsa/try-tropycal/HEAD?labpath=index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mas300labs-uofsa/try-tropycal/add_netcdf?labpath=hurdat_murs.ipynb)
 
