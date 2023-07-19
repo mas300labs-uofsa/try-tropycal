@@ -19,6 +19,9 @@ dependencies
 And the environment will also have:
 - tropycal
 
+Then I added netCDF so I could plot MUR SST
+- netcdf4
+
 Click on the Binder button to open the Notebook:
 
 Try out tropycal commands:
