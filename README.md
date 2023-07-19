@@ -1,4 +1,4 @@
-# Trying tropical
+# Trying tropycal
 
 Python package 'tropycal' looks promising and I want to try it out.  Since it has a slew of dependencies, I am making a new
 repo so that the other notebooks don't need all those packages in their environment.
