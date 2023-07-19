@@ -12,3 +12,4 @@ dependencies:
   - cartopy >= 0.17.0
   - tropycal
   - wget
+  - netcdf4
