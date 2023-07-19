@@ -20,5 +20,9 @@ And the environment will also have:
 - tropycal
 
 Click on the Binder button to open the Notebook:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mas300labs-uofsa/try-tropycal/HEAD?labpath=index.ipynb)
 
+Try out tropycal commands:
+- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mas300labs-uofsa/try-tropycal/HEAD?labpath=index.ipynb)
+
+Plot Sally's path, with wind, pressure from HURDAT2 and sea surface temperature from MURS:
+- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mas300labs-uofsa/try-tropycal/HEAD?labpath=hurdat_murs.ipynb)
