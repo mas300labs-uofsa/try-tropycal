@@ -3,6 +3,11 @@
 Python package 'tropycal' looks promising and I want to try it out.  Since it has a slew of dependencies, I am making a new
 repo so that the other notebooks don't need all those packages in their environment.
 
+## Tropycal examples and AMS talk
+
+Check official Tropycal examples in my forked repo [sample-scripts](https://github.com/lisalenorelowe/sample-scripts).  The AMS talk had some deprecated function calls, so my fork has those fixed.  Those Notebooks should all work as advertised, with caveauts listed in the README.
+
+
 tropycal
 - https://tropycal.github.io/tropycal/index.html
 
