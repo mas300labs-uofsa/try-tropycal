@@ -13,3 +13,4 @@ dependencies:
   - tropycal
   - wget
   - netcdf4
+  - notebook
